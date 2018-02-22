@@ -16,7 +16,7 @@
 </head>
 <body>
 <%
-String url = "jdbc:sqlserver://assignmentserver.database.windows.net:1433;database=assignmentdb;user=serverlogin@assignmentserver;password=server@88988";
+String url = "jdbc:sqlserver://assignmentserver.database.windows.net:1433;database=assignmentdb;user=s*****;password=******";
 Connection connection = null;
 int id=Integer.parseInt(request.getParameter("id"));
 try {
