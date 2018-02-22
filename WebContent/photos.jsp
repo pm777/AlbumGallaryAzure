@@ -23,9 +23,9 @@
 		//Connect to database
 		String hostName = "assignmentserver.database.windows.net";
 		String dbName = "assignmentdb";
-		String user = "serverlogin@assignmentserver";
-		String password = "server@88988";
-		String url = "jdbc:sqlserver://assignmentserver.database.windows.net:1433;database=assignmentdb;user=serverlogin@assignmentserver;password=server@88988";
+		String user = "*****";
+		String password = "********";
+		String url = "jdbc:sqlserver://assignmentserver.database.windows.net:1433;database=assignmentdb;user=*****;password=******";
 
 		// DB connection
 		Connection connection = null;
