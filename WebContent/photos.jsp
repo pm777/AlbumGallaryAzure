@@ -21,7 +21,7 @@
 	<%
 		byte[] imgData = null;
 		//Connect to database
-		String hostName = "assignmentserver.database.windows.net";
+		String hostName = "***********.database.windows.net";
 		String dbName = "assignmentdb";
 		String user = "*****";
 		String password = "********";
