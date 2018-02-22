@@ -40,7 +40,7 @@ public class VoteServlet extends HttpServlet {
 		float avg=0;
 		int count=1;
 		int totalRatings=0;
-		String url = "jdbc:sqlserver://assignmentserver.database.windows.net:1433;database=assignmentdb;user=serverlogin@assignmentserver;password=server@88988";
+		String url = "jdbc:sqlserver://******.database.windows.net:1433;database=*****;user=*****;password=*******";
 
 		// DB connection
 		Connection connection = null;
