@@ -33,7 +33,7 @@
 </head>
 <body>
 <%
-String url = "jdbc:sqlserver://assignmentserver.database.windows.net:1433;database=assignmentdb;user=serverlogin@assignmentserver;password=server@88988";
+String url = "jdbc:sqlserver://assignmentserver.database.windows.net:1433;database=assignmentdb;user=******;password=*******";
 
 // DB connection
 Connection connection = null;
